@@ -8,7 +8,7 @@ Location: SF
 
 # Auth in Rails
 
-### Why is this so dang important?
+### Why is this so important?
 <!-- framing the "why" in big-picture/real world examples -->
 *This workshop is important because:*
 
